@@ -10,3 +10,9 @@ Visit https://hub.docker.com/r/kyan/rails/ for information on what is contained 
 `kyan/rails:2.3.1`
 
 Based from `ruby/2.3.1-slim`
+
+### 2.3
+
+`kyan/rails:2.3`
+
+Based from `ruby/2.3-slim`
