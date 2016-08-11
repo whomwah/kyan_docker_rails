@@ -16,3 +16,9 @@ Based from `ruby/2.3.1-slim`
 `kyan/rails:2.3`
 
 Based from `ruby/2.3-slim`
+
+### 2.2.5
+
+`kyan/rails:2.2.5`
+
+Based from `ruby/2.2.5-slim`
