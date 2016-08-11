@@ -1,9 +1,6 @@
 # Kyan Docker Rails
 
-These are images we used at kyan.com as a base image to simplify local development of Rails app. The various tags specify the version of `ruby` used.
-
-Visit https://hub.docker.com/r/kyan/rails/ for information on what is contained in the base image.  
-
+These are images we used at kyan.com as a base image to simplify local development of Rails app. The various tags specify the version of `ruby` used. It uses a version of `ruby/**-slim` as a base. It contains all the base dependencies you need to compile most common gems we use, including MySQL or Postgres.
 
 ### 2.3.1
 
