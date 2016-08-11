@@ -1,4 +1,4 @@
-FROM kyan/rails:2.3
+FROM ruby:2.3.1-slim
 MAINTAINER Duncan Robertson <duncan@kyan.com>
 ENV REFRESHED_AT 2016-08-11
 

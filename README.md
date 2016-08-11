@@ -1,7 +1,12 @@
 # Kyan Docker Rails
 
-These are images we used at kyan.com as a base image to simplify local development of Rails app. The tags specify the version of `ruby`.
+These are images we used at kyan.com as a base image to simplify local development of Rails app. The various tags specify the version of `ruby` used.
 
-```
-kyan/rails:2.3
-```
+Visit https://hub.docker.com/r/kyan/rails/ for information on what is contained in the base image.  
+
+
+### 2.3.1
+
+`kyan/rails:2.3.1`
+
+Based from `ruby/2.3.1-slim`
