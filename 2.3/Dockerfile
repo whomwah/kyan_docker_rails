@@ -1,6 +1,6 @@
-FROM ruby:2.3.1-slim
+FROM ruby:2.3-slim
 MAINTAINER Duncan Robertson <duncan@kyan.com>
-ENV REFRESHED_AT 2016-08-11
+ENV REFRESHED_AT 2017-01-31
 
 # Install packages
 RUN apt-get update && apt-get install -y --no-install-recommends \
